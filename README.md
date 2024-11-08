@@ -26,10 +26,16 @@ I'm a **Data Scientist, AI enthusiast, and Project Sponsor** with a passion for 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekasyap&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekasyap&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekasyap&theme=radical&count_private=true" alt="GitHub Streak" />
+  <!-- GitHub Stats Widget -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thekasyap&show_icons=true&include_all_commits=true&count_private=true&theme=radical&v=2" alt="GitHub Stats" />
+
+  <!-- Most Used Languages Widget -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekasyap&layout=compact&theme=radical&count_private=true&v=2" alt="Top Languages" />
+
+  <!-- GitHub Streak Widget -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekasyap&theme=radical&count_private=true&v=2" alt="GitHub Streak" />
 </p>
+
 
 ---
 
@@ -57,6 +63,10 @@ Here are some of the key projects I've been working on:
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thekasyap&theme=react-dark&count_private=true)
+
+## 📈 Contribution Graph (test)
+<!-- Contribution Graph Widget -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thekasyap&theme=react-dark&count_private=true&v=2)
 
 ---
 
