@@ -84,9 +84,12 @@ I'm a **Data Scientist, AI Enthusiast, and Tech Innovator** with hands-on experi
 <p align="center">
   <a href="https://www.adibiz.in"><img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://adibiz.in/linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aditya@adibiz.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/thekasyap"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:aditya@adibiz.in?subject=Inquiry%20from%20GitHub%20Profile&body=Hello%20Aditya,%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20love%20to%20discuss%20potential%20collaborations%20or%20inquire%20about%20your%20services.%0A%0AHere%20are%20a%20few%20details%20about%20my%20project:%0A1.%20Project%20Goals:%0A-%20%5BBriefly%20describe%20your%20project%20goals%5D%0A2.%20Services%20Interested%20In:%0A-%20%5B%20%5D%20AI%20Chatbots%0A-%20%5B%20%5D%20Data%20Visualization%0A-%20%5B%20%5D%20Business%20Analytics%0A-%20%5B%20%5D%20Automation%0A%0AThank%20you!%0A%0ABest%20regards,%0A%5BYour%20Name%5D" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/thekasyap"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
 
 ---
 
