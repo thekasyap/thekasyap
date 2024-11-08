@@ -48,7 +48,7 @@ I'm a **Data Scientist, AI Enthusiast, and Tech Innovator** with hands-on experi
     <td>A cutting-edge chatbot with distinct personalities like "rude" and "buddy" modes, designed to enhance user engagement on WhatsApp and Instagram. Leveraging LLMs and prompt engineering, SAMANTHA is on track to revolutionize conversational AI.</td>
   </tr>
   <tr>
-    <td><b>🔄 Urdu Morphological Analyzer (CDAC)</b></td>
+    <td><b>🔄 Indic NLP Tools (CDAC)</b></td>
     <td>Boosted text processing for Indian languages by 40% using NLP techniques.</td>
   </tr>
   <tr>
