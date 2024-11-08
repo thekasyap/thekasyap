@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aditya Kasyap! 🚀
 
-![Banner](https://github.com/thekasyap/thekasyap/raw/main/banner.png)
+![Banner](https://github.com/thekasyap/thekasyap/raw/main/banner2.png)
 
 I'm a **Data Scientist, AI enthusiast, and Project Sponsor** with a passion for **NLP, ML, and Data Engineering**. Currently leading projects at Veritas Technologies and C-DAC, and exploring the cutting-edge world of AI with a focus on developing robust solutions using Python, TensorFlow, and LLMs.
 
