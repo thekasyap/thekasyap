@@ -6,7 +6,9 @@ I'm a **Data Scientist, AI Enthusiast, and Tech Innovator** with hands-on experi
 
 🔭 **Current Projects**:
 - Leading the development of an ambitious and **confidential project codenamed "Project VRI"** 🚀 with my tinyTeam, guaranteed to disrupt the AI space. Stay tuned!
+- Pioneering **Project SAMANTHA**, a sophisticated AI chatbot with unique personalities designed to transform user interactions across WhatsApp and Instagram.
 - Developed **OCR filtering tools (Project S.I.E.V.E)** at Veritas Technologies and advanced **Language Processing Tools** at CDAC.
+
 
 🎓 **Education**: Pursuing a **Minor Degree in AI** from **IIT Ropar**.
 🌱 **Learning**: Deep diving into **Google Cloud Platform, Azure**, and exploring the latest advancements in **Large Language Models (LLMs)**.
@@ -29,6 +31,7 @@ I'm a **Data Scientist, AI Enthusiast, and Tech Innovator** with hands-on experi
 
 ---
 
+
 ## 🚀 Recent Projects
 
 <table>
@@ -41,8 +44,12 @@ I'm a **Data Scientist, AI Enthusiast, and Tech Innovator** with hands-on experi
     <td>An enigmatic AI project that's set to redefine the chatbot industry. Details are confidential, but it's designed to be groundbreaking. Stay tuned for the big reveal! 🌟</td>
   </tr>
   <tr>
+    <td><b>🤖 Project SAMANTHA - AI Chatbot</b></td>
+    <td>A cutting-edge chatbot with distinct personalities like "rude" and "buddy" modes, designed to enhance user engagement on WhatsApp and Instagram. Leveraging LLMs and prompt engineering, SAMANTHA is on track to revolutionize conversational AI.</td>
+  </tr>
+  <tr>
     <td><b>🔄 Urdu Morphological Analyzer (CDAC)</b></td>
-    <td>Boosted text processing for Indian languages by 40% using NLP.</td>
+    <td>Boosted text processing for Indian languages by 40% using NLP techniques.</td>
   </tr>
   <tr>
     <td><b>📱 Malang BVP App</b></td>
@@ -50,9 +57,12 @@ I'm a **Data Scientist, AI Enthusiast, and Tech Innovator** with hands-on experi
   </tr>
   <tr>
     <td><b>📊 QR-based Attendance System</b></td>
-    <td>Automated attendance tracking using Python and OpenCV.</td>
+    <td>Automated attendance tracking using Python, Django, and OpenCV.</td>
   </tr>
 </table>
+
+
+
 
 ---
 
