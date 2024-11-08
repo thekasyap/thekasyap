@@ -10,8 +10,8 @@ I'm a **Data Scientist, AI Enthusiast, and Tech Innovator** with hands-on experi
 - Developed **OCR filtering tools (Project S.I.E.V.E)** at Veritas Technologies and advanced **Language Processing Tools** at CDAC.
 
 
-🎓 **Education**: Pursuing a **Minor Degree in AI** from **IIT Ropar**.
-🌱 **Learning**: Deep diving into **Google Cloud Platform, Azure**, and exploring the latest advancements in **Large Language Models (LLMs)**.
+🎓 **Education**: Pursuing a **Minor Degree in AI** from **IIT Ropar**. <br>
+🌱 **Learning**: Deep diving into **Google Cloud Platform, Azure**, and exploring the latest advancements in **Large Language Models (LLMs)**. <br>
 💡 **Passion**: Solving real-world challenges through AI, Data Science, and creative problem-solving.
 
 ---
